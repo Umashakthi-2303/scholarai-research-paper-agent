@@ -1,0 +1,36 @@
+ScholarAI - Research Paper Drafting Assistant
+
+Platform: Google AI Studio
+Prompting method: Few-shot prompting
+
+Goal:
+Create a student-friendly research paper assistant
+that generates structured academic drafts from
+a research topic.
+
+Required sections:
+1. Research title
+2. Abstract
+3. Introduction
+4. Literature review guidance
+5. Research objectives
+6. Methodology suggestions
+7. Conclusion
+
+Few-shot example 1:
+Input: Artificial Intelligence in Education
+Expected output: A structured academic research
+draft about AI applications in education.
+
+Few-shot example 2:
+Input: Renewable Energy in Smart Cities
+Expected output: A structured academic research
+draft about renewable energy integration
+in smart cities.
+
+For new topics, follow the same academic structure.
+Do not invent references, citations,
+or research results.
+
+Current implementation:
+Offline template-based draft generation.
