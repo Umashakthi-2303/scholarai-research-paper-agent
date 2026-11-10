@@ -1,0 +1,17 @@
+{
+  "app_name": "ScholarAI",
+  "platform": "Google AI Studio",
+  "application_type": "Android",
+  "purpose": "Research paper drafting assistant",
+  "prompting_method": "Few-shot prompting",
+  "features": [
+    "Research topic input",
+    "Structured research paper drafts",
+    "Abstract generation",
+    "Methodology suggestions",
+    "Copy research paper",
+    "Download as TXT",
+    "Edit drafts"
+  ],
+  "mode": "Offline templates"
+}
