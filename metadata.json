@@ -1,0 +1,6 @@
+{
+  "name": "ScholarAI",
+  "description": "AI Research Paper Assistant that generates structured academic research drafts with titles, abstracts, literature reviews, methodology, and conclusions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
